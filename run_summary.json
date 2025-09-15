@@ -1,0 +1,174 @@
+{
+  "history": [
+    {
+      "t": 0,
+      "pop_size": 31,
+      "mean_energy": 56.78831910252374,
+      "births": 31,
+      "deaths": 0,
+      "messages": 62.785465240478516,
+      "harvest": 1.7142301797866821,
+      "transfers": 0.0
+    },
+    {
+      "t": 50,
+      "pop_size": 27,
+      "mean_energy": 33.56915214625354,
+      "births": 0,
+      "deaths": 4,
+      "messages": 381.71670150756836,
+      "harvest": 1.8189964294433594,
+      "transfers": 0.0
+    },
+    {
+      "t": 100,
+      "pop_size": 7,
+      "mean_energy": 49.31309882307881,
+      "births": 0,
+      "deaths": 20,
+      "messages": -300.9503479003906,
+      "harvest": 0.4613945484161377,
+      "transfers": 0.0
+    },
+    {
+      "t": 150,
+      "pop_size": 6,
+      "mean_energy": 49.16697627119523,
+      "births": 0,
+      "deaths": 1,
+      "messages": -85.1368637084961,
+      "harvest": 0.4615384638309479,
+      "transfers": 0.0
+    },
+    {
+      "t": 200,
+      "pop_size": 5,
+      "mean_energy": 48.36790584843412,
+      "births": 0,
+      "deaths": 1,
+      "messages": 26.087615966796875,
+      "harvest": 0.921589732170105,
+      "transfers": 0.0
+    },
+    {
+      "t": 250,
+      "pop_size": 4,
+      "mean_energy": 36.333648437251675,
+      "births": 0,
+      "deaths": 1,
+      "messages": -5.26336669921875,
+      "harvest": 0.4613945484161377,
+      "transfers": 0.0
+    },
+    {
+      "t": 300,
+      "pop_size": 2,
+      "mean_energy": 64.3709716796875,
+      "births": 0,
+      "deaths": 2,
+      "messages": -48.28837585449219,
+      "harvest": 0.4608190059661865,
+      "transfers": 0.0
+    },
+    {
+      "t": 350,
+      "pop_size": 2,
+      "mean_energy": 67.3470845583872,
+      "births": 0,
+      "deaths": 0,
+      "messages": -7.701284408569336,
+      "harvest": 0.0,
+      "transfers": 0.0
+    },
+    {
+      "t": 400,
+      "pop_size": 2,
+      "mean_energy": 62.08019950124428,
+      "births": 0,
+      "deaths": 0,
+      "messages": 9.542551040649414,
+      "harvest": 0.4612496793270111,
+      "transfers": 0.0
+    },
+    {
+      "t": 450,
+      "pop_size": 1,
+      "mean_energy": 59.849708557128906,
+      "births": 0,
+      "deaths": 1,
+      "messages": -14.893327713012695,
+      "harvest": 0.4613945484161377,
+      "transfers": 0.0
+    },
+    {
+      "t": 500,
+      "pop_size": 1,
+      "mean_energy": 63.25294494628906,
+      "births": 0,
+      "deaths": 0,
+      "messages": -0.09848976135253906,
+      "harvest": 0.4612292945384979,
+      "transfers": 0.0
+    },
+    {
+      "t": 550,
+      "pop_size": 1,
+      "mean_energy": 40.761977414081294,
+      "births": 0,
+      "deaths": 0,
+      "messages": -0.6666030883789062,
+      "harvest": 0.0,
+      "transfers": 0.0
+    },
+    {
+      "t": 600,
+      "pop_size": 1,
+      "mean_energy": 39.35879888969731,
+      "births": 0,
+      "deaths": 0,
+      "messages": 5.5777587890625,
+      "harvest": 0.0,
+      "transfers": 0.0
+    },
+    {
+      "t": 650,
+      "pop_size": 1,
+      "mean_energy": 21.37983643089253,
+      "births": 0,
+      "deaths": 0,
+      "messages": -6.603187561035156,
+      "harvest": 0.0,
+      "transfers": 0.0
+    },
+    {
+      "t": 700,
+      "pop_size": 1,
+      "mean_energy": 28.985780715942383,
+      "births": 0,
+      "deaths": 0,
+      "messages": -3.462986946105957,
+      "harvest": 0.4615384638309479,
+      "transfers": 0.0
+    },
+    {
+      "t": 750,
+      "pop_size": 1,
+      "mean_energy": 13.887164115905762,
+      "births": 0,
+      "deaths": 0,
+      "messages": 9.690754890441895,
+      "harvest": 0.46137428283691406,
+      "transfers": 0.0
+    },
+    {
+      "t": 5000,
+      "pop_size": 0,
+      "mean_energy": 0.0,
+      "births": 0,
+      "deaths": 1,
+      "messages": -14.027514457702637,
+      "harvest": 0.0,
+      "transfers": 0.0
+    }
+  ]
+}
