@@ -72,3 +72,12 @@ Potential Extensions
 
 Notes
 - This code is intentionally compact and hackable. It favors clarity of mechanisms (energy budgets, local comms, minimal controllers) over heavy frameworks, making it easy to modify during research sprints or interviews.
+
+
+Summary:
+
+o	Project-Frankie — Multi-Agent Neuroevolution Simulation (Python/NumPy)
+o	Built a first-principles, resource-constrained multi-agent world where agents with tiny Elman RNN controllers select primitive actions (move/harvest/transfer/emit/mate) and temporally extended “macro” options, with decaying vector-field communication (multi-channel, bandwidth-limited) and sexual reproduction.
+o	Implemented a neuroevolution pipeline: Gaussian weight mutation and sexual recombination (weight averaging + noise), plus structural mutation of macro sequences; co-evolved capacities (sensor radius, comm bandwidth/radius, movement efficiency) under explicit energy budgets and hazards.
+o	Engineered fast simulation mechanics: toroidal grid with spatial buckets for O(k) neighbor queries; Holling type-II harvesting; configurable logistic resource regrowth; deterministic seeded runs via dataclass configs.
+o	Built lightweight observability: periodic snapshots to JSON/XLSX, and reproducible run summaries; parameterizable logging interval for long-horizon studies.
