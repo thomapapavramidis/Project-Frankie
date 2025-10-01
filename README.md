@@ -1,5 +1,9 @@
 Frankenstein: Evolving Agents World
 
+I started this project in an attempt to demosntrate how human cognition is not very different from AI, and a lot if not all our habits stem from evolutionary processes. Obviously the computational power available to me is limited so this restricts the possible conclusions we can reach due to the simplified nature of our simulated environment and agents' perception, however even with limited variables I believe it is possible to demonstrate that trust and social hierarchies form naturally from first-principles in survival. These agents have been instructed with the sole goal of not falling below a set level of energy (death), and every action they chose to preform uses up that resource. Over many generations I theorize that those with the most optimal energy preservation tendencies will thrive, and that those tendencies will not be far from our own.
+
+
+
 Summary
 - A NumPy-only agent‑based simulation that explores emergent coordination under resource constraints. Agents live on a toroidal grid with renewable resources and hazards, control themselves with tiny Elman RNNs, communicate via spatial vector fields, and reproduce sexually. The system includes hierarchical “macro” options that mutate structurally, light logging, and clean configurability.
 
@@ -74,7 +78,7 @@ Notes
 - This code is intentionally compact and hackable. It favors clarity of mechanisms (energy budgets, local comms, minimal controllers) over heavy frameworks, making it easy to modify during research sprints or interviews.
 
 
-Summary:
+My Work:
 
 o	Project-Frankie — Multi-Agent Neuroevolution Simulation (Python/NumPy)
 o	Built a first-principles, resource-constrained multi-agent world where agents with tiny Elman RNN controllers select primitive actions (move/harvest/transfer/emit/mate) and temporally extended “macro” options, with decaying vector-field communication (multi-channel, bandwidth-limited) and sexual reproduction.
